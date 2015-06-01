@@ -1,0 +1,1 @@
+A signals and slots utility in c++ using delegates and function pointers.
